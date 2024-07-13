@@ -19,11 +19,6 @@
 ![Screenshot (29)](https://github.com/user-attachments/assets/96dfae53-2b12-4003-8a9a-92b684806537)
 
 
-### Then comes section of hobbies section,after that user can click to download pdf to get their resume in a pdf format
-
-![Screenshot (18)](https://github.com/user-attachments/assets/f251528e-3230-4237-878d-13d79806d015)
-
-
 ![Screenshot (33)](https://github.com/user-attachments/assets/840410a1-dd9d-40cc-9d48-00c8ac16ef47)
 
 ### User can view his profile also
